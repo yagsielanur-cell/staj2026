@@ -4,7 +4,7 @@
 ## Gün 1 - 05/03/2026
 - Şirket ve takım ile tanışma
 - Staj projesi hakkında bşlgşlendirme
-- Git ve GiyHub temel kullanımına giriş
+- Git ve GitHub temel kullanımına giriş
 
 ## Gün 2 - 06/03/2026
 - HTML ve Css temel kavramları
@@ -43,7 +43,19 @@
   ## Gün 9 - 01/04/2026
   -  HTML bitti
   -  HTML testi çözüldü
-  -  Javascript'e giriş yapıldı 
+  -  Javascript'e giriş yapıldı
+
+   ## Gün 10 - 02/04/2026
+  -  IDE nedir izlendi 
+  -  Notepad++ kurulumu izlendi
+  -  Adobe Creative Cloud kısmı izlendi
+
+   ## Gün 11 - 03/04/2026
+  -  Javascript ile ilgili dökümanlar izlendi 
+
+    
+  -  
+ 
 
 
     
